@@ -106,4 +106,4 @@ googleAnalytics = ""
 	[params.location]
 	 	latitude  = "56.206965"
 	 	longitude = "24.768313"
-	#   maps_api_key = ""
+	    maps_api_key = "AIzaSyA7LOhThK91z9XGXQCCyuFEmHBkbBReiPY" # yep, i know, not secure...DC
